@@ -1,3 +1,3 @@
-def suma (*num):
-    return sum(num)
-print(suma(2,2,2,7,545))
+nom = "Aline"
+ap="Verde"
+saludo="Hola", nom, ap, "Cómo estas?"
