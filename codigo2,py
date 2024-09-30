@@ -1,0 +1,2 @@
+nom="Kevin"
+print("hola", nom)
